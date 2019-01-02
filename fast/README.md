@@ -5,19 +5,7 @@ We have several feature detectors and many of them are really good. But when loo
 
 <p align="center">   <img src="https://cdn-images-1.medium.com/max/2000/0*mdITGZogcZO6c8iW.jpg" /> </p>
 
-As a solution to this,*** Features from accelerated segment test (FAST)*** is a corner detection method, which could be used to extract feature points and later used to track and map objects in many computer vision tasks. The FAST corner detector was originally developed by Edward Rosten and Tom Drummond and was published in 2006. The most promising advantage of the FAST corner detector is its computational efficiency. Moreover, when machine learning techniques are applied, superior performance in terms of computation time and resources can be realized. The FAST corner detector is very suitable for real-time video processing application because of this high-speed performance.
-
-This is part of a 6-series Feature Detection and Description. Other articles included
-
-* Introduction to Harris Algorithm
-
-* Introduction to BRIEF (Binary Robust Independent Elementary Features) Algorithm
-
-* [Introduction to ORB (Oriented FAST and Rotated BRIEF)](https://medium.com/@deepanshut041/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf)
-
-* Introduction to SIFT (Scale-Invariant Feature Transform) Algorithm
-
-* Introduction to SURF (Speeded-Up Robust Features) Algorithm
+As a solution to this,*** Features from accelerated segment test (FAST) *** is a corner detection method, which could be used to extract feature points and later used to track and map objects in many computer vision tasks. The FAST corner detector was originally developed by Edward Rosten and Tom Drummond and was published in 2006. The most promising advantage of the FAST corner detector is its computational efficiency. Moreover, when machine learning techniques are applied, superior performance in terms of computation time and resources can be realized. The FAST corner detector is very suitable for real-time video processing application because of this high-speed performance.
 
 ## **Feature Detection using FAST**
 
