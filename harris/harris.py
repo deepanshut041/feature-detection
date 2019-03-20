@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
-get_ipython().run_line_magic('matplotlib', 'inline')
 
 # Read in the image
 image = cv2.imread('images/waffle.jpg')
