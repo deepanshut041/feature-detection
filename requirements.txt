@@ -1,0 +1,6 @@
+jupyter==1.0.0
+matplotlib==3.0.3
+notebook==5.7.6
+numpy==1.16.2
+opencv-contrib-python==3.4.2.16
+opencv-python==3.4.2.16
